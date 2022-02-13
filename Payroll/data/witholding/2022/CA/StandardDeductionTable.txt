@@ -1,0 +1,5 @@
+Year
+2022
+Payroll Period, Single/Dual Income Married/Married with Multiple Employers,Married/0 or 1 Allowance, Married/2 or More Allowance, Unmarried Head of Household
+Annual, 4803,4803,9606,9606
+Daily, 18,18,37,37

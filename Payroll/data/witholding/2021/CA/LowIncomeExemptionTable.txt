@@ -1,0 +1,5 @@
+Year
+2021
+Payroll Period, Single/Dual Income Married/Married with Multiple Employers,Married/0 or 1 Allowance, Married/2 or More Allowance, Unmarried Head of Household
+ANNUAL, 15267, 15267, 30534, 30534
+DAILY_MISC, 59,59,117,117

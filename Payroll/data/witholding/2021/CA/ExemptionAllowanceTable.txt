@@ -1,0 +1,4 @@
+Year
+2021
+Allowances, Annual,Daily
+1,136.40,0.52

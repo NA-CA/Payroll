@@ -1,0 +1,5 @@
+Year
+2022
+Payroll Period, Single/Dual Income Married/Married with Multiple Employers,Married/0 or 1 Allowance, Married/2 or More Allowance, Unmarried Head of Household
+ANNUAL, 15916, 15916, 31831, 31831
+DAILY_MISC, 61,61,122,122
