@@ -28,6 +28,6 @@ public class PayrollLibUnitTestUtil
 {
     public static String getDataPath()
     {
-        return "C:\\Users\\MadhaviAdmin\\IdeaProjects\\PayrollLibrary\\data";
+        return "../Payroll/data";
     }
 }
