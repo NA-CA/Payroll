@@ -1,2 +1,1 @@
-# Payroll
-Computes payroll 
+This application is for computing payroll expenses; it computes payroll amounts for Employee Federal Withholding, Employee State Withholding, Employee Social Security Tax, Employee Medicare Tax, Employee California State Disability (SDI/VDI), Employee 401(K), Company Social Security, Company Medicare, Company State FUTA.  
