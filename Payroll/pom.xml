@@ -29,9 +29,10 @@
             <version>1.9.0</version>
         </dependency>
         <dependency>
-            <groupId>group.id</groupId>
-            <artifactId>artifactid</artifactId>
-            <version>1.0</version>
+            <groupId>unknown.binary</groupId>
+            <artifactId>PayrollLibrary</artifactId>
+            <version>SNAPSHOT</version>
+            <type>jar</type>
         </dependency>
     </dependencies>
     <properties>
